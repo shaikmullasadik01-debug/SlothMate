@@ -1,0 +1,6 @@
+{
+  "name": "SlothMate AI",
+  "description": "Privacy-first personal productivity agent powered by open-weight AI. Work less, relax more, and let automation handle the boring stuff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
